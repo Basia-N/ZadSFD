@@ -1,0 +1,6 @@
+c:\users\barbara\documents\visual studio 2012\Projects\SFDZadanie\SFDZadanie\bin\Debug\SFDZadanie.exe.config
+C:\Users\Barbara\documents\visual studio 2012\Projects\SFDZadanie\SFDZadanie\bin\Debug\SFDZadanie.exe
+C:\Users\Barbara\documents\visual studio 2012\Projects\SFDZadanie\SFDZadanie\bin\Debug\SFDZadanie.pdb
+C:\Users\Barbara\documents\visual studio 2012\Projects\SFDZadanie\SFDZadanie\obj\Debug\SFDZadanie.csprojResolveAssemblyReference.cache
+C:\Users\Barbara\documents\visual studio 2012\Projects\SFDZadanie\SFDZadanie\obj\Debug\SFDZadanie.exe
+C:\Users\Barbara\documents\visual studio 2012\Projects\SFDZadanie\SFDZadanie\obj\Debug\SFDZadanie.pdb
